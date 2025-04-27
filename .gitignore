@@ -1,0 +1,6 @@
+/target
+{{ ... }}
+/td-1.8.0/
+/tdlib_files/
+.DS_Store
+td.binlog
